@@ -15,4 +15,4 @@ Thanks
 * The University of Toronto team who scoured the data to expunge any
   accidentally submitted personally identifiable information: Patrick Wu,
   Ashley Sheng, Kristen Malik, and Douglas McDermott.
-* Ehsan Akhgari and Erik Rose, Mozilla staff mentors of the above
+* Ehsan Akhgari, Erik Rose, and Mike Hoye, Mozilla staff mentors of the above
